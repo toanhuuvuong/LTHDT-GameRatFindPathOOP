@@ -1,0 +1,6 @@
+              W -> Up		B -> Block
+              S -> Down		E -> Erase
+              A -> Left		X -> Shortest
+              D -> Right	Y -> Longest
+              R -> Rat		F -> Find
+              L -> Lamp		M -> Matrix
